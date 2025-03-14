@@ -1,14 +1,14 @@
 # 🏢 Organization Repository
 
-Welcome to the **SWOEP** repository! This serves as the central hub for our projects, documentation, and resources.
+Welcome to the **Swoep** repository! This serves as the central hub for our projects, documentation, and resources.
 
 ## 📌 Projects
 
 ### 1. [Swoep Assistant Builder Template](https://github.com/MarisSNOTYOUNG/Swoep-AssistantBuilder-template)
-A template for building assistant applications.
+Holds all code regarding setting up a Swoep
 
 ### 2. [Swoep Method Azure Function](https://github.com/MarisSNOTYOUNG/Swoep-Method-AzureFunction)
-An Azure Function implementation for the Swoep Method.
+The Azure Function implementation for the "plan maker" GPT. 
 
 ## 📖 Documentation
 - TBD
